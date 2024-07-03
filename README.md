@@ -32,4 +32,4 @@
 
 ### 💻 Статистика:
 
-[![Wakatime stats](https://wakatime.com/badge/user/VladKudalbu.svg)](https://wakatime.com/@VladKudalbu)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=VladKudalbu&theme=tokyonight&custom_title=WakaTime:&locale=ru&border_color=0d1117&&text_color=70a5d3&title_color=CD5BA5&langs_count=5)](https://wakatime.com/@VladKudalbu)
