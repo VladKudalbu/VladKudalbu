@@ -1,5 +1,5 @@
 <h1 align="center">Привет, меня зовут Александр
-  <img src="[https://github.com/blackcater/blackcater/raw/main/images/Hi.gif](https://github.com/AlexFromNorth/AlexFromNorth/blob/main/assets/github-snake.svg)" height="32"/>
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">Frontend-разработчик</h3>
 
@@ -8,23 +8,18 @@
 Я интересуюсь различными веб-технологиями, прокачиваю свой скилл во фронтенд-разработке. Закончил курс по данному направлению в Html-академии. Работал в офисе и на фрилансе. Обучал основам верстки. Сейчас углубляюсь в React и TypeScript. 👀
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://github.com/AlexFromNorth/AlexFromNorth/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
-
 
 ### Контакты:
 <div>
-    <a href="https://t.me/jacklex_x">
+    <a href="[https://t.me/jacklex_x](https://t.me/VladKudalbu)">
     <img src="https://img.icons8.com/3d-fluency/94/null/telegram.png" style="width: 50px";>
     </a>
-    <a href="https://vk.com/id93906739">
+    <a href="[https://vk.com/id93906739](https://discordapp.com/users/1239476523900207188/)">
     <img src="https://img.icons8.com/3d-fluency/94/null/vk-circled.png" style="width: 50px">
     </a>   
 </div>
-
-### 💻 Codewars:
-
-![codewars](https://www.codewars.com/users/jackle/badges/large)
 
 ### 💻 Технологии:
 
