@@ -5,20 +5,30 @@
 
 ### :man_technologist: Обо мне:
 
+- 🔭 Я работаю над телеграм ботом для кофейни КОФЕМАН.
+- 🌱 Я сейчас учу Python, javascript, HTML и CSS.
+- 💬 Спросите меня "Как у тебя дела?".
+
 Я интересуюсь программированием, прокачиваю свой скилл в бэкенд-разработке.  Учусь по данному направлению в Rocket-Tech-School. Сейчас углубляюсь в Python, JavaScript и CSS вместе с HTML. 👀
 
 <p align="center">
  <img width="600" src="https://github.com/AlexFromNorth/AlexFromNorth/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
+## Мои проекты
+- Телеграмм бот для кофейни КОФЕМАН
+
 ### Контакты:
 <div>
     <a href="https://t.me/VladKudalbu">
     <img src="https://img.icons8.com/3d-fluency/94/null/telegram.png" style="width: 50px";>
     </a>
+    <a href="https://vk.com/vladalbu">
+    <img src="https://img.icons8.com/3d-fluency/94/null/vk-circled.png" style="width: 50px">
+    </a>
     <a href="https://discordapp.com/users/1239476523900207188/">
     <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" style="width: 50px">
-    </a>   
+    </a>     
 </div>
 
 ### 💻 Технологии:
