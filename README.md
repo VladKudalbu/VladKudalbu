@@ -43,3 +43,4 @@
 ### 💻 Статистика:
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=VladKudalbu&theme=tokyonight&custom_title=WakaTime:&locale=ru&border_color=0d1117&&text_color=70a5d3&title_color=CD5BA5&langs_count=5)](https://wakatime.com/@VladKudalbu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladKudalbu&layout=compact)](https://github.com/VladKudalbu/github-readme-stats)
